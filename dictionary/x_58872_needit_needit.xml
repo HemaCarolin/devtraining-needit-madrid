@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedItTable" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="ByNewButton" max_length="200" name="bynewbutton" type="string"/>
+        <element label="DateTime" mandatory="true" max_length="15" name="datetime" type="glide_date_time"/>
+        <element label="New Field" max_length="200" name="new_field" type="string"/>
+    </element>
+</database>
